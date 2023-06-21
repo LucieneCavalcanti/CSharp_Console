@@ -1,0 +1,15 @@
+C:\Users\ALUNO\Documents\Luciene\Ex415052023\bin\Debug\net6.0\Ex415052023.exe
+C:\Users\ALUNO\Documents\Luciene\Ex415052023\bin\Debug\net6.0\Ex415052023.deps.json
+C:\Users\ALUNO\Documents\Luciene\Ex415052023\bin\Debug\net6.0\Ex415052023.runtimeconfig.json
+C:\Users\ALUNO\Documents\Luciene\Ex415052023\bin\Debug\net6.0\Ex415052023.dll
+C:\Users\ALUNO\Documents\Luciene\Ex415052023\bin\Debug\net6.0\Ex415052023.pdb
+C:\Users\ALUNO\Documents\Luciene\Ex415052023\obj\Debug\net6.0\Ex415052023.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Documents\Luciene\Ex415052023\obj\Debug\net6.0\Ex415052023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Documents\Luciene\Ex415052023\obj\Debug\net6.0\Ex415052023.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Documents\Luciene\Ex415052023\obj\Debug\net6.0\Ex415052023.AssemblyInfo.cs
+C:\Users\ALUNO\Documents\Luciene\Ex415052023\obj\Debug\net6.0\Ex415052023.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Documents\Luciene\Ex415052023\obj\Debug\net6.0\Ex415052023.dll
+C:\Users\ALUNO\Documents\Luciene\Ex415052023\obj\Debug\net6.0\refint\Ex415052023.dll
+C:\Users\ALUNO\Documents\Luciene\Ex415052023\obj\Debug\net6.0\Ex415052023.pdb
+C:\Users\ALUNO\Documents\Luciene\Ex415052023\obj\Debug\net6.0\Ex415052023.genruntimeconfig.cache
+C:\Users\ALUNO\Documents\Luciene\Ex415052023\obj\Debug\net6.0\ref\Ex415052023.dll

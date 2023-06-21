@@ -1,0 +1,17 @@
+C:\Users\ALUNO\Documents\Luciene\Exercicio1ProvaA\bin\Debug\net6.0-windows\Exercicio1ProvaA.exe
+C:\Users\ALUNO\Documents\Luciene\Exercicio1ProvaA\bin\Debug\net6.0-windows\Exercicio1ProvaA.deps.json
+C:\Users\ALUNO\Documents\Luciene\Exercicio1ProvaA\bin\Debug\net6.0-windows\Exercicio1ProvaA.runtimeconfig.json
+C:\Users\ALUNO\Documents\Luciene\Exercicio1ProvaA\bin\Debug\net6.0-windows\Exercicio1ProvaA.dll
+C:\Users\ALUNO\Documents\Luciene\Exercicio1ProvaA\bin\Debug\net6.0-windows\Exercicio1ProvaA.pdb
+C:\Users\ALUNO\Documents\Luciene\Exercicio1ProvaA\obj\Debug\net6.0-windows\Exercicio1ProvaA.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Documents\Luciene\Exercicio1ProvaA\obj\Debug\net6.0-windows\Exercicio1ProvaA.Form1.resources
+C:\Users\ALUNO\Documents\Luciene\Exercicio1ProvaA\obj\Debug\net6.0-windows\Exercicio1ProvaA.csproj.GenerateResource.cache
+C:\Users\ALUNO\Documents\Luciene\Exercicio1ProvaA\obj\Debug\net6.0-windows\Exercicio1ProvaA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Documents\Luciene\Exercicio1ProvaA\obj\Debug\net6.0-windows\Exercicio1ProvaA.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Documents\Luciene\Exercicio1ProvaA\obj\Debug\net6.0-windows\Exercicio1ProvaA.AssemblyInfo.cs
+C:\Users\ALUNO\Documents\Luciene\Exercicio1ProvaA\obj\Debug\net6.0-windows\Exercicio1ProvaA.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Documents\Luciene\Exercicio1ProvaA\obj\Debug\net6.0-windows\Exercicio1ProvaA.dll
+C:\Users\ALUNO\Documents\Luciene\Exercicio1ProvaA\obj\Debug\net6.0-windows\refint\Exercicio1ProvaA.dll
+C:\Users\ALUNO\Documents\Luciene\Exercicio1ProvaA\obj\Debug\net6.0-windows\Exercicio1ProvaA.pdb
+C:\Users\ALUNO\Documents\Luciene\Exercicio1ProvaA\obj\Debug\net6.0-windows\Exercicio1ProvaA.genruntimeconfig.cache
+C:\Users\ALUNO\Documents\Luciene\Exercicio1ProvaA\obj\Debug\net6.0-windows\ref\Exercicio1ProvaA.dll
