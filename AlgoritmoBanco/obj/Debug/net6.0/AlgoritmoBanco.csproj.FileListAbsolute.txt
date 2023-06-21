@@ -1,0 +1,15 @@
+C:\Users\ALUNO\Documents\Luciene\AlgoritmoBanco\bin\Debug\net6.0\AlgoritmoBanco.exe
+C:\Users\ALUNO\Documents\Luciene\AlgoritmoBanco\bin\Debug\net6.0\AlgoritmoBanco.deps.json
+C:\Users\ALUNO\Documents\Luciene\AlgoritmoBanco\bin\Debug\net6.0\AlgoritmoBanco.runtimeconfig.json
+C:\Users\ALUNO\Documents\Luciene\AlgoritmoBanco\bin\Debug\net6.0\AlgoritmoBanco.dll
+C:\Users\ALUNO\Documents\Luciene\AlgoritmoBanco\bin\Debug\net6.0\AlgoritmoBanco.pdb
+C:\Users\ALUNO\Documents\Luciene\AlgoritmoBanco\obj\Debug\net6.0\AlgoritmoBanco.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Documents\Luciene\AlgoritmoBanco\obj\Debug\net6.0\AlgoritmoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Documents\Luciene\AlgoritmoBanco\obj\Debug\net6.0\AlgoritmoBanco.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Documents\Luciene\AlgoritmoBanco\obj\Debug\net6.0\AlgoritmoBanco.AssemblyInfo.cs
+C:\Users\ALUNO\Documents\Luciene\AlgoritmoBanco\obj\Debug\net6.0\AlgoritmoBanco.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Documents\Luciene\AlgoritmoBanco\obj\Debug\net6.0\AlgoritmoBanco.dll
+C:\Users\ALUNO\Documents\Luciene\AlgoritmoBanco\obj\Debug\net6.0\refint\AlgoritmoBanco.dll
+C:\Users\ALUNO\Documents\Luciene\AlgoritmoBanco\obj\Debug\net6.0\AlgoritmoBanco.pdb
+C:\Users\ALUNO\Documents\Luciene\AlgoritmoBanco\obj\Debug\net6.0\AlgoritmoBanco.genruntimeconfig.cache
+C:\Users\ALUNO\Documents\Luciene\AlgoritmoBanco\obj\Debug\net6.0\ref\AlgoritmoBanco.dll

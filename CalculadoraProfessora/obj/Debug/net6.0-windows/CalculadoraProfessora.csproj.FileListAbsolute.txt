@@ -1,0 +1,17 @@
+C:\Users\ALUNO\Documents\Luciene\CalculadoraProfessora\bin\Debug\net6.0-windows\CalculadoraProfessora.exe
+C:\Users\ALUNO\Documents\Luciene\CalculadoraProfessora\bin\Debug\net6.0-windows\CalculadoraProfessora.deps.json
+C:\Users\ALUNO\Documents\Luciene\CalculadoraProfessora\bin\Debug\net6.0-windows\CalculadoraProfessora.runtimeconfig.json
+C:\Users\ALUNO\Documents\Luciene\CalculadoraProfessora\bin\Debug\net6.0-windows\CalculadoraProfessora.dll
+C:\Users\ALUNO\Documents\Luciene\CalculadoraProfessora\bin\Debug\net6.0-windows\CalculadoraProfessora.pdb
+C:\Users\ALUNO\Documents\Luciene\CalculadoraProfessora\obj\Debug\net6.0-windows\CalculadoraProfessora.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Documents\Luciene\CalculadoraProfessora\obj\Debug\net6.0-windows\CalculadoraProfessora.Form1.resources
+C:\Users\ALUNO\Documents\Luciene\CalculadoraProfessora\obj\Debug\net6.0-windows\CalculadoraProfessora.csproj.GenerateResource.cache
+C:\Users\ALUNO\Documents\Luciene\CalculadoraProfessora\obj\Debug\net6.0-windows\CalculadoraProfessora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Documents\Luciene\CalculadoraProfessora\obj\Debug\net6.0-windows\CalculadoraProfessora.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Documents\Luciene\CalculadoraProfessora\obj\Debug\net6.0-windows\CalculadoraProfessora.AssemblyInfo.cs
+C:\Users\ALUNO\Documents\Luciene\CalculadoraProfessora\obj\Debug\net6.0-windows\CalculadoraProfessora.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Documents\Luciene\CalculadoraProfessora\obj\Debug\net6.0-windows\CalculadoraProfessora.dll
+C:\Users\ALUNO\Documents\Luciene\CalculadoraProfessora\obj\Debug\net6.0-windows\refint\CalculadoraProfessora.dll
+C:\Users\ALUNO\Documents\Luciene\CalculadoraProfessora\obj\Debug\net6.0-windows\CalculadoraProfessora.pdb
+C:\Users\ALUNO\Documents\Luciene\CalculadoraProfessora\obj\Debug\net6.0-windows\CalculadoraProfessora.genruntimeconfig.cache
+C:\Users\ALUNO\Documents\Luciene\CalculadoraProfessora\obj\Debug\net6.0-windows\ref\CalculadoraProfessora.dll
