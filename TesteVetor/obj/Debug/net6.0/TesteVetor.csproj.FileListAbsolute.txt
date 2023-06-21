@@ -1,0 +1,15 @@
+C:\Users\ALUNO\Documents\Luciene\TesteVetor\bin\Debug\net6.0\TesteVetor.exe
+C:\Users\ALUNO\Documents\Luciene\TesteVetor\bin\Debug\net6.0\TesteVetor.deps.json
+C:\Users\ALUNO\Documents\Luciene\TesteVetor\bin\Debug\net6.0\TesteVetor.runtimeconfig.json
+C:\Users\ALUNO\Documents\Luciene\TesteVetor\bin\Debug\net6.0\TesteVetor.dll
+C:\Users\ALUNO\Documents\Luciene\TesteVetor\bin\Debug\net6.0\TesteVetor.pdb
+C:\Users\ALUNO\Documents\Luciene\TesteVetor\obj\Debug\net6.0\TesteVetor.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Documents\Luciene\TesteVetor\obj\Debug\net6.0\TesteVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Documents\Luciene\TesteVetor\obj\Debug\net6.0\TesteVetor.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Documents\Luciene\TesteVetor\obj\Debug\net6.0\TesteVetor.AssemblyInfo.cs
+C:\Users\ALUNO\Documents\Luciene\TesteVetor\obj\Debug\net6.0\TesteVetor.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Documents\Luciene\TesteVetor\obj\Debug\net6.0\TesteVetor.dll
+C:\Users\ALUNO\Documents\Luciene\TesteVetor\obj\Debug\net6.0\refint\TesteVetor.dll
+C:\Users\ALUNO\Documents\Luciene\TesteVetor\obj\Debug\net6.0\TesteVetor.pdb
+C:\Users\ALUNO\Documents\Luciene\TesteVetor\obj\Debug\net6.0\TesteVetor.genruntimeconfig.cache
+C:\Users\ALUNO\Documents\Luciene\TesteVetor\obj\Debug\net6.0\ref\TesteVetor.dll
