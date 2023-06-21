@@ -1,0 +1,15 @@
+C:\Users\ALUNO\Documents\Luciene\Classificacao\bin\Debug\net6.0\Classificacao.exe
+C:\Users\ALUNO\Documents\Luciene\Classificacao\bin\Debug\net6.0\Classificacao.deps.json
+C:\Users\ALUNO\Documents\Luciene\Classificacao\bin\Debug\net6.0\Classificacao.runtimeconfig.json
+C:\Users\ALUNO\Documents\Luciene\Classificacao\bin\Debug\net6.0\Classificacao.dll
+C:\Users\ALUNO\Documents\Luciene\Classificacao\bin\Debug\net6.0\Classificacao.pdb
+C:\Users\ALUNO\Documents\Luciene\Classificacao\obj\Debug\net6.0\Classificacao.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Documents\Luciene\Classificacao\obj\Debug\net6.0\Classificacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Documents\Luciene\Classificacao\obj\Debug\net6.0\Classificacao.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Documents\Luciene\Classificacao\obj\Debug\net6.0\Classificacao.AssemblyInfo.cs
+C:\Users\ALUNO\Documents\Luciene\Classificacao\obj\Debug\net6.0\Classificacao.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Documents\Luciene\Classificacao\obj\Debug\net6.0\Classificacao.dll
+C:\Users\ALUNO\Documents\Luciene\Classificacao\obj\Debug\net6.0\refint\Classificacao.dll
+C:\Users\ALUNO\Documents\Luciene\Classificacao\obj\Debug\net6.0\Classificacao.pdb
+C:\Users\ALUNO\Documents\Luciene\Classificacao\obj\Debug\net6.0\Classificacao.genruntimeconfig.cache
+C:\Users\ALUNO\Documents\Luciene\Classificacao\obj\Debug\net6.0\ref\Classificacao.dll
