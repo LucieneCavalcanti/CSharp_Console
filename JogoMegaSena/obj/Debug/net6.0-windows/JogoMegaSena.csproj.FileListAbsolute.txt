@@ -1,0 +1,17 @@
+C:\Users\ALUNO\Documents\Luciene\JogoMegaSena\bin\Debug\net6.0-windows\JogoMegaSena.exe
+C:\Users\ALUNO\Documents\Luciene\JogoMegaSena\bin\Debug\net6.0-windows\JogoMegaSena.deps.json
+C:\Users\ALUNO\Documents\Luciene\JogoMegaSena\bin\Debug\net6.0-windows\JogoMegaSena.runtimeconfig.json
+C:\Users\ALUNO\Documents\Luciene\JogoMegaSena\bin\Debug\net6.0-windows\JogoMegaSena.dll
+C:\Users\ALUNO\Documents\Luciene\JogoMegaSena\bin\Debug\net6.0-windows\JogoMegaSena.pdb
+C:\Users\ALUNO\Documents\Luciene\JogoMegaSena\obj\Debug\net6.0-windows\JogoMegaSena.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Documents\Luciene\JogoMegaSena\obj\Debug\net6.0-windows\JogoMegaSena.Form1.resources
+C:\Users\ALUNO\Documents\Luciene\JogoMegaSena\obj\Debug\net6.0-windows\JogoMegaSena.csproj.GenerateResource.cache
+C:\Users\ALUNO\Documents\Luciene\JogoMegaSena\obj\Debug\net6.0-windows\JogoMegaSena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Documents\Luciene\JogoMegaSena\obj\Debug\net6.0-windows\JogoMegaSena.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Documents\Luciene\JogoMegaSena\obj\Debug\net6.0-windows\JogoMegaSena.AssemblyInfo.cs
+C:\Users\ALUNO\Documents\Luciene\JogoMegaSena\obj\Debug\net6.0-windows\JogoMegaSena.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Documents\Luciene\JogoMegaSena\obj\Debug\net6.0-windows\JogoMegaSena.dll
+C:\Users\ALUNO\Documents\Luciene\JogoMegaSena\obj\Debug\net6.0-windows\refint\JogoMegaSena.dll
+C:\Users\ALUNO\Documents\Luciene\JogoMegaSena\obj\Debug\net6.0-windows\JogoMegaSena.pdb
+C:\Users\ALUNO\Documents\Luciene\JogoMegaSena\obj\Debug\net6.0-windows\JogoMegaSena.genruntimeconfig.cache
+C:\Users\ALUNO\Documents\Luciene\JogoMegaSena\obj\Debug\net6.0-windows\ref\JogoMegaSena.dll
