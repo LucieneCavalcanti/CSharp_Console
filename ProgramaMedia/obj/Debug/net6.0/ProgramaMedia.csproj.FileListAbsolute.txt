@@ -1,0 +1,15 @@
+C:\Users\ALUNO\Documents\Luciene\ProgramaMedia\obj\Debug\net6.0\ProgramaMedia.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Documents\Luciene\ProgramaMedia\obj\Debug\net6.0\ProgramaMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Documents\Luciene\ProgramaMedia\obj\Debug\net6.0\ProgramaMedia.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Documents\Luciene\ProgramaMedia\obj\Debug\net6.0\ProgramaMedia.AssemblyInfo.cs
+C:\Users\ALUNO\Documents\Luciene\ProgramaMedia\obj\Debug\net6.0\ProgramaMedia.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Documents\Luciene\ProgramaMedia\bin\Debug\net6.0\ProgramaMedia.exe
+C:\Users\ALUNO\Documents\Luciene\ProgramaMedia\bin\Debug\net6.0\ProgramaMedia.deps.json
+C:\Users\ALUNO\Documents\Luciene\ProgramaMedia\bin\Debug\net6.0\ProgramaMedia.runtimeconfig.json
+C:\Users\ALUNO\Documents\Luciene\ProgramaMedia\bin\Debug\net6.0\ProgramaMedia.dll
+C:\Users\ALUNO\Documents\Luciene\ProgramaMedia\bin\Debug\net6.0\ProgramaMedia.pdb
+C:\Users\ALUNO\Documents\Luciene\ProgramaMedia\obj\Debug\net6.0\ProgramaMedia.dll
+C:\Users\ALUNO\Documents\Luciene\ProgramaMedia\obj\Debug\net6.0\refint\ProgramaMedia.dll
+C:\Users\ALUNO\Documents\Luciene\ProgramaMedia\obj\Debug\net6.0\ProgramaMedia.pdb
+C:\Users\ALUNO\Documents\Luciene\ProgramaMedia\obj\Debug\net6.0\ProgramaMedia.genruntimeconfig.cache
+C:\Users\ALUNO\Documents\Luciene\ProgramaMedia\obj\Debug\net6.0\ref\ProgramaMedia.dll

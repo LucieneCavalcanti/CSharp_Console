@@ -1,0 +1,15 @@
+C:\Users\ALUNO\Documents\Luciene\ProgramaPrefeitura\bin\Debug\net6.0\ProgramaPrefeitura.exe
+C:\Users\ALUNO\Documents\Luciene\ProgramaPrefeitura\bin\Debug\net6.0\ProgramaPrefeitura.deps.json
+C:\Users\ALUNO\Documents\Luciene\ProgramaPrefeitura\bin\Debug\net6.0\ProgramaPrefeitura.runtimeconfig.json
+C:\Users\ALUNO\Documents\Luciene\ProgramaPrefeitura\bin\Debug\net6.0\ProgramaPrefeitura.dll
+C:\Users\ALUNO\Documents\Luciene\ProgramaPrefeitura\bin\Debug\net6.0\ProgramaPrefeitura.pdb
+C:\Users\ALUNO\Documents\Luciene\ProgramaPrefeitura\obj\Debug\net6.0\ProgramaPrefeitura.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Documents\Luciene\ProgramaPrefeitura\obj\Debug\net6.0\ProgramaPrefeitura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Documents\Luciene\ProgramaPrefeitura\obj\Debug\net6.0\ProgramaPrefeitura.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Documents\Luciene\ProgramaPrefeitura\obj\Debug\net6.0\ProgramaPrefeitura.AssemblyInfo.cs
+C:\Users\ALUNO\Documents\Luciene\ProgramaPrefeitura\obj\Debug\net6.0\ProgramaPrefeitura.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Documents\Luciene\ProgramaPrefeitura\obj\Debug\net6.0\ProgramaPrefeitura.dll
+C:\Users\ALUNO\Documents\Luciene\ProgramaPrefeitura\obj\Debug\net6.0\refint\ProgramaPrefeitura.dll
+C:\Users\ALUNO\Documents\Luciene\ProgramaPrefeitura\obj\Debug\net6.0\ProgramaPrefeitura.pdb
+C:\Users\ALUNO\Documents\Luciene\ProgramaPrefeitura\obj\Debug\net6.0\ProgramaPrefeitura.genruntimeconfig.cache
+C:\Users\ALUNO\Documents\Luciene\ProgramaPrefeitura\obj\Debug\net6.0\ref\ProgramaPrefeitura.dll
