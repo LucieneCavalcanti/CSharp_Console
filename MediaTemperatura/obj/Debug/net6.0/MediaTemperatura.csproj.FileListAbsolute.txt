@@ -1,0 +1,15 @@
+C:\Users\ALUNO\Documents\Luciene\MediaTemperatura\bin\Debug\net6.0\MediaTemperatura.exe
+C:\Users\ALUNO\Documents\Luciene\MediaTemperatura\bin\Debug\net6.0\MediaTemperatura.deps.json
+C:\Users\ALUNO\Documents\Luciene\MediaTemperatura\bin\Debug\net6.0\MediaTemperatura.runtimeconfig.json
+C:\Users\ALUNO\Documents\Luciene\MediaTemperatura\bin\Debug\net6.0\MediaTemperatura.dll
+C:\Users\ALUNO\Documents\Luciene\MediaTemperatura\bin\Debug\net6.0\MediaTemperatura.pdb
+C:\Users\ALUNO\Documents\Luciene\MediaTemperatura\obj\Debug\net6.0\MediaTemperatura.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Documents\Luciene\MediaTemperatura\obj\Debug\net6.0\MediaTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Documents\Luciene\MediaTemperatura\obj\Debug\net6.0\MediaTemperatura.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Documents\Luciene\MediaTemperatura\obj\Debug\net6.0\MediaTemperatura.AssemblyInfo.cs
+C:\Users\ALUNO\Documents\Luciene\MediaTemperatura\obj\Debug\net6.0\MediaTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Documents\Luciene\MediaTemperatura\obj\Debug\net6.0\MediaTemperatura.dll
+C:\Users\ALUNO\Documents\Luciene\MediaTemperatura\obj\Debug\net6.0\refint\MediaTemperatura.dll
+C:\Users\ALUNO\Documents\Luciene\MediaTemperatura\obj\Debug\net6.0\MediaTemperatura.pdb
+C:\Users\ALUNO\Documents\Luciene\MediaTemperatura\obj\Debug\net6.0\MediaTemperatura.genruntimeconfig.cache
+C:\Users\ALUNO\Documents\Luciene\MediaTemperatura\obj\Debug\net6.0\ref\MediaTemperatura.dll
